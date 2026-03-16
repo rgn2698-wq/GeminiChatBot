@@ -16,7 +16,7 @@ Gemini API를 활용한 웹 기반 챗봇입니다.
 ## 🛠 기술 스택
 
 - HTML / CSS / JavaScript (Vanilla)
-- Gemini API (`gemini-2.0-flash`)
+- Gemini API (`gemini-3-flash`)
 
 ---
 
@@ -44,4 +44,4 @@ Gemini API를 활용한 웹 기반 챗봇입니다.
 
 ## 📷 미리보기
 
-> 실행 후 스크린샷을 추가해주세요.
+> 
